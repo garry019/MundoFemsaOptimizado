@@ -1,0 +1,1878 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "9FD2E616FC10E15D00ED1D2C28213DD352560CC8",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C5EF23C17B5BD76100549239EB4524E57D1431AB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D71B0A55DF41402B36EBB58F293599C40E16C36",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9FE11EC494887725CA8BD8E7F7FEADE96E0F8BA4",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "66FF9BE64F242AB5C362FE11D955F148D20BD64D",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B0A15612765AA29C8A8E1E96D25070FFAD6EF77C",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "91868A58CC95EAC42C2500AB174D41E6714CE044",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Water_Simple"
+			]
+		},
+		{
+			"ShaderMapHash": "37181B07C093506BF4B4CE6EF075B90159A9179A",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "0177D6473E5F6B4549571E374FDEDE13E3852D48",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2C7C74369B81C63A520D8D87AD5D5BD0FED4A61C",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B3D6B11E32FF254633E14ED954084A71A3401E3",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "918759E99FBDCBD1E7DB7848D6ABF5AD64869D1E",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DD1326EF19AB183D9E69CF798F53815CA53F1C6E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6FBC318C0282C90DCB055A25F22F046EF95D141A",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "EB1E1781D410666E22A73129F65AECA73A3AB497",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "B8E2A6830966EB4C2FEB4EA04A7C12BFE070F43A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "B5E2BBE86AB0B9E34438CFD01F84BA8A228122D8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9D05215EBB9BD1DD1CCCFCA67A00C4B180D0A8C2",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B470888669AC2C8465ACDB2BFB6C696603264578",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Wall-Painted-YELLOW_ncl1_1",
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Wall-Painted-YELLOW_ncl1_1"
+			]
+		},
+		{
+			"ShaderMapHash": "AFF72F61D28442845F549EE4074057795C7D7EFF",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Wall-Painted-YELLOW",
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Wall-Painted-YELLOW"
+			]
+		},
+		{
+			"ShaderMapHash": "EA86EACC85C0635D497BB159E6F0AEFA1F3AD183",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Wall-Painted-White",
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Wall-Painted-White"
+			]
+		},
+		{
+			"ShaderMapHash": "7D0F1F4F5F1394F6FCBC66CDB9557A2E0102B687",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Synthetic_-_Polystyrene_White",
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Synthetic_-_Polystyrene_White"
+			]
+		},
+		{
+			"ShaderMapHash": "6AED081E515066EB2043F362E7C8B38D190FEC0E",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Metal_-_zinc",
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Metal_-_zinc"
+			]
+		},
+		{
+			"ShaderMapHash": "63DA56A3758607BBF001207EA40FC7FDE804EC92",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Metal-Painted-Red",
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Metal-Painted-Red"
+			]
+		},
+		{
+			"ShaderMapHash": "73DF8704ABAB633DB402A75EC23B71B0750531EB",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B75530A1E8DC2EEB7433813F7F282E6E0C087788",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "2F7526CD8CBDF71989EA4C9A3992D82F42AE9972",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo3/Glass_-_Germania",
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Glass_-_Germania"
+			]
+		},
+		{
+			"ShaderMapHash": "D333F365455598C3BA263CADA040D8A845FB1E10",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo2/defaultMat_ncl1_1"
+			]
+		},
+		{
+			"ShaderMapHash": "166B950A70674D758AD3DEB3E030D84AB8CA6070",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Obj/nube"
+			]
+		},
+		{
+			"ShaderMapHash": "B33492440B1627F158AE324C3FFBEC85B4DBB05D",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/SVGMat"
+			]
+		},
+		{
+			"ShaderMapHash": "FEC593EBE069679E675818768749D9E1C19F512C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_052"
+			]
+		},
+		{
+			"ShaderMapHash": "E4FCDE15DD01B76570B6EC9AB503CD37405CD47A",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_051"
+			]
+		},
+		{
+			"ShaderMapHash": "2673D904E3A464773F5E7386B6AE163BD330F0F7",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_050"
+			]
+		},
+		{
+			"ShaderMapHash": "7C1C211EB4382A8BBDA1525F3F5A8F2DBEFABD5E",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_049"
+			]
+		},
+		{
+			"ShaderMapHash": "E98837B7E55AA0C48842EABAD58DC473A1D58FA9",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_048"
+			]
+		},
+		{
+			"ShaderMapHash": "BB21652521FE830B30AE2CB5091668BDB281925C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_047"
+			]
+		},
+		{
+			"ShaderMapHash": "8F111657D9B0D9D292BACA82586CECDD4255932C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_046"
+			]
+		},
+		{
+			"ShaderMapHash": "00A43921E0F16BF18D9FFC09B3C84F521D34EA7C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_045"
+			]
+		},
+		{
+			"ShaderMapHash": "12DF1C5DE20FA43D77D43DA37E13EC9CD38EE556",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_044"
+			]
+		},
+		{
+			"ShaderMapHash": "F74774A2A57A25627D61F845A2BDC1A6A63850DF",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_043"
+			]
+		},
+		{
+			"ShaderMapHash": "735C546D7B66E783E55AD5B8ED651818877B9FA7",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_042"
+			]
+		},
+		{
+			"ShaderMapHash": "01C3EE341123F35ED6D7E2D12092235D94D83C32",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_040"
+			]
+		},
+		{
+			"ShaderMapHash": "D212DDA96E43472FD0478A1F70F24C7AD85B4E52",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_039"
+			]
+		},
+		{
+			"ShaderMapHash": "EBF2855A2E993A56C0EC7C3ADA458E886839F301",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_038"
+			]
+		},
+		{
+			"ShaderMapHash": "1C505515229D8B286029383CE80B3C705A4599E5",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_037"
+			]
+		},
+		{
+			"ShaderMapHash": "06D613A9CCF6D850635233BF1E709C5F6D9A38C2",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_036"
+			]
+		},
+		{
+			"ShaderMapHash": "C7419314307B62B66DC62352625E2B3BE84BEDBB",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_035"
+			]
+		},
+		{
+			"ShaderMapHash": "4A5E9360A66FF2EC0F4EB4C4D8D4A1705A92DCD1",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_033"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A0AA50AAE9B409652F9DC934174278E029606D",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_032"
+			]
+		},
+		{
+			"ShaderMapHash": "DAA9A54B944AE4D870839AA0E35002FBDD70F65C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_030"
+			]
+		},
+		{
+			"ShaderMapHash": "D6A837433CE126A032A52DAD333473EA305A6F01",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_029"
+			]
+		},
+		{
+			"ShaderMapHash": "6312775D1305E268AAD901E084CCB57E65930EA1",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_028"
+			]
+		},
+		{
+			"ShaderMapHash": "08ABFBF903BE0303A7096CD9354E210EA3C20109",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_027"
+			]
+		},
+		{
+			"ShaderMapHash": "8EB0716CBB32264EEA8EC525FF0BFA2E663285CE",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_025"
+			]
+		},
+		{
+			"ShaderMapHash": "8C28AF474BDFC6A151177ADB2E3150D49C8B2313",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_024"
+			]
+		},
+		{
+			"ShaderMapHash": "17AED0D800A7EE49D5F3F984EB52F822D96720D3",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_Torch"
+			]
+		},
+		{
+			"ShaderMapHash": "80CFC8C15A4186C74E9C561B1EE6663764E2B045",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_023"
+			]
+		},
+		{
+			"ShaderMapHash": "F4193793443E303ACBD141503CD9F1698D8AA759",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_022"
+			]
+		},
+		{
+			"ShaderMapHash": "804BF9E80550C0E8953E7949B884D885927D959B",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_021"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB9D2105E98C4C59082A0B2A2CABAC8CD52D1E3",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_020"
+			]
+		},
+		{
+			"ShaderMapHash": "FA58838130B33D80860C02DE109C26DCE63D6EEA",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_008"
+			]
+		},
+		{
+			"ShaderMapHash": "CE734DFF9432121333C1E2533E66A884EBAB23FC",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_005"
+			]
+		},
+		{
+			"ShaderMapHash": "7D0F04EF4B237811E644F653021C61402B89A465",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/CruzVerde2/Material_004"
+			]
+		},
+		{
+			"ShaderMapHash": "20751CA5BF4A0E9D7175D28A5D8F20981BBB7BFE",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_052"
+			]
+		},
+		{
+			"ShaderMapHash": "AD861410971E19B0C7B0FFBD2EB355774CF9B3D5",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_051"
+			]
+		},
+		{
+			"ShaderMapHash": "23E4AE297A34527373E5A2D88BDAECF415B7575C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_050"
+			]
+		},
+		{
+			"ShaderMapHash": "711C2AC9EBAF6224F4AAAA9911C6C2433DE5D925",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_Glass_Window"
+			]
+		},
+		{
+			"ShaderMapHash": "92AAE159367A1B9957A2DD602E580A1BE1B67895",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_049"
+			]
+		},
+		{
+			"ShaderMapHash": "59717D2A6A93CE7980ACFA88023BE6ED4C3E09F3",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_048"
+			]
+		},
+		{
+			"ShaderMapHash": "2768FD5535BC5BD1A73262FC16CC0CD676FCB8F0",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_047"
+			]
+		},
+		{
+			"ShaderMapHash": "7FABEAEDB33C49A653B88173805229856B96CB96",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_046"
+			]
+		},
+		{
+			"ShaderMapHash": "9FB7FEC10941C957F4085AFE78383B9E695639B7",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_045"
+			]
+		},
+		{
+			"ShaderMapHash": "678ECCC0F917D9AAD3DD9B946B12E40444273D91",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_044"
+			]
+		},
+		{
+			"ShaderMapHash": "112627DB710236B5C2C3C3517FB1063174E7D637",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_043"
+			]
+		},
+		{
+			"ShaderMapHash": "F2F0890C0B8578844CB81737F495347334BF417B",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_042"
+			]
+		},
+		{
+			"ShaderMapHash": "69FCF6D9CD1BFC6A55D89C194F1B33A0D671009B",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_041"
+			]
+		},
+		{
+			"ShaderMapHash": "122435065FAAC26B8E9245440351FA25672FE299",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_040"
+			]
+		},
+		{
+			"ShaderMapHash": "935251F942DE293D3C31ED4EAB07D9A3D19BC549",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_039"
+			]
+		},
+		{
+			"ShaderMapHash": "4BCC7E60C6E3102314513B8D035F4FB839BA461A",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_038"
+			]
+		},
+		{
+			"ShaderMapHash": "234ED91635DEFF92ADB58F37AA2A93C32E3AF82E",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_037"
+			]
+		},
+		{
+			"ShaderMapHash": "368A284B07E50C9FA415560956FACF6447D718AF",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_036"
+			]
+		},
+		{
+			"ShaderMapHash": "50918E43F0B64A5E4BC7680056A02BF1761D7F41",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_035"
+			]
+		},
+		{
+			"ShaderMapHash": "CDD66B4AC15D261CCA2A898A3D66C26799BB2714",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_034"
+			]
+		},
+		{
+			"ShaderMapHash": "06580C6BF867DD936B9C23A0E1EA58A97C323F7C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_033"
+			]
+		},
+		{
+			"ShaderMapHash": "CF029999E911931294D9C9CFDB2485F6331BE73D",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_032"
+			]
+		},
+		{
+			"ShaderMapHash": "499FE9449FDE83AF7A6F677B88F0492046CDFE36",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_031"
+			]
+		},
+		{
+			"ShaderMapHash": "F8DC4A40CF6B09749BB2777A6095D9948721CA38",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_030"
+			]
+		},
+		{
+			"ShaderMapHash": "55316E13C7FB44EB807198B30884E6FDB9212BBD",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_029"
+			]
+		},
+		{
+			"ShaderMapHash": "F9338E43EEC5384F3BE9F7D78517160011421E38",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_028"
+			]
+		},
+		{
+			"ShaderMapHash": "4A6B501DD2A483C642D966FA95425C963216A3A6",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_027"
+			]
+		},
+		{
+			"ShaderMapHash": "950E83B68810D76FD1AC0BEB9E1A0DAD3884C3EC",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_026"
+			]
+		},
+		{
+			"ShaderMapHash": "1A5362AD0A189E3567850F8FFB1736F64C7E5F5A",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_025"
+			]
+		},
+		{
+			"ShaderMapHash": "69FED9EE16318EB5D6534074D4610772AC5075E7",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_024"
+			]
+		},
+		{
+			"ShaderMapHash": "9115A66B67C4EAFA2589B1223A4B995552EEC68C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_023"
+			]
+		},
+		{
+			"ShaderMapHash": "E046E53E9E94E94CD19DC13808856420BD6713A1",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_022"
+			]
+		},
+		{
+			"ShaderMapHash": "4CA633AD9DB473E9DF28DC0B54506BAC3306F539",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_021"
+			]
+		},
+		{
+			"ShaderMapHash": "DBFD3EC9293FC7AF6713018F968D9B0C7D94718C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_020"
+			]
+		},
+		{
+			"ShaderMapHash": "1639EA3B9F1B32F0948CDF590F60399C5F212502",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_011"
+			]
+		},
+		{
+			"ShaderMapHash": "C808071A28C0BD2F748FE2571A526A0DD92CB37D",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_008"
+			]
+		},
+		{
+			"ShaderMapHash": "A9E397958143F3AC834520F0E30DD380F88D302B",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_005"
+			]
+		},
+		{
+			"ShaderMapHash": "C9C0A5615A21BA8543681F5638A18AFF18824082",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material_004"
+			]
+		},
+		{
+			"ShaderMapHash": "64182C04E4E13B8B700F4631893EE686456D22E3",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/cruzverde/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "4F102ED6459F18FF2BAB476639DE5014109A403C",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Materials/LowPolyCartoonNature_BG"
+			]
+		},
+		{
+			"ShaderMapHash": "ADDCC9DD7ADCB6C81A2560FBAC394B49BEB5BB05",
+			"Assets": [
+				"/Game/Levels/360_Level/MP4/Plane"
+			]
+		},
+		{
+			"ShaderMapHash": "BC4E02712B385657842D79087967083972C65B3F",
+			"Assets": [
+				"/Game/Interaction/Switch/SwitchMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "75EF27643670FC9DBAC43B786EBB20128D2993E5",
+			"Assets": [
+				"/Game/Interaction/Switch/BaseMaterial_2"
+			]
+		},
+		{
+			"ShaderMapHash": "49DA0A2ACBC3DE9AA213EF05DA7E4030FA851B2A",
+			"Assets": [
+				"/Game/Interaction/Switch/BaseMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F75E4629EAB4B12365494C9FFA5EF7687A04CCF1",
+			"Assets": [
+				"/Game/Interaction/Morado"
+			]
+		},
+		{
+			"ShaderMapHash": "82E554EE8345700A2023A4B9D09A8BB1A491BE2E",
+			"Assets": [
+				"/Game/images/SVGMat"
+			]
+		},
+		{
+			"ShaderMapHash": "11B251B29D3DC2379A0915D2805AFAD94DAE49C3",
+			"Assets": [
+				"/Game/Blueprints/Motion_Controller/03_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "44514D1242DDED04F68B9C97ED8994384D6D3169",
+			"Assets": [
+				"/Game/Blueprints/Motion_Controller/02_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "C18F1B8649323D1B73B61ABB069E61935CDAF409",
+			"Assets": [
+				"/Game/Blueprints/Motion_Controller/01_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "979ACFB406CD78A38188D84B26CE2B2A72190CA8",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Smoke_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "399E21035D6940DBA4100617CCABF4D5458C965C",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Fire_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "8A66D48449ADCBFC2BFDB4E5BFF86C4026B1067D",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Post_Process_Volume/M_Fog_PPV"
+			]
+		},
+		{
+			"ShaderMapHash": "1D7BBD88B0ED01BB19542788AACABC7EC537DF14",
+			"Assets": [
+				"/Game/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B46BE0C1B11378A2ABA596850AF471D013CFF735",
+			"Assets": [
+				"/DatasmithContent/Materials/Arealight"
+			]
+		},
+		{
+			"ShaderMapHash": "D432E672D5A3398635EF524C9AA3123D61D311C4",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B0EA87C9C35A97F4EBF7794D67FF454668749E4",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "F2910118DDF2335CFDE44699D0BBA894E0B83A9B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "8154A2A9821198E11CA055DCC2E36F6C196BB2BB",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E972025E73DA0A139CD6937D0EBE1B2673A28975",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "C2AB774F056B147131A11FE8456D0D8F004BED6C",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2CA7F6C52F3198A28758D8F9C7ACC20856817777",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "785FA710C0BEAF37B4281C5A6DD1D7BFDD015CD8",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E10CDD18ED90BC933EF26FA201DF1B034DD0873B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DB668BA217C55B954BE159D0E6B733DA505F0F60",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "897E6BBF86DA7E9F55CAD9073AA3BB68E9327750",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Tropic"
+			]
+		},
+		{
+			"ShaderMapHash": "4C7175E5D814A0475D2DB8EE1221F7CB54727BD5",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_VolcanoSmoke"
+			]
+		},
+		{
+			"ShaderMapHash": "5678A18B32984E549ED606210DA3B3FBEBF4F2A3",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1E8F26D0849602D00D30884C51F1A6A38F1A0D4F",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "62F58BB45041770D2B73D6127AFFA93780F49B3B",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "55AC73B36CB1BF22BC90AE49B8A60BF8A704B383",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1127156078D8073C7BDBF278844E793C0FF0759B",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2892AA75E92335B4A5F02A43A239A5EB6D280A4D",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8560DF892E819AA07ACC8F79364B5C64A60ED7B9",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "EF0DF444437E75AD164F6C6359FFBD9BCE9AB0D4",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "74D7CBF5766BA214E063935D8F46FCB221CD8024",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FF39F333690D965F9BC265419657766A54B5862E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3ED2971378C189F633A7B68680DA0E0B9D7839F7",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D8163984198401F9E023345367AA93F08178E0D5",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "65F0C9E7A37081B8B9C668C3D72450AD4DD5BE8C",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "4358ACFC9F9244C6339B6D9A59C7C3AEF37B8AD7",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "384567EC7C02D079BF5540E612148EEB38875C4C",
+			"Assets": [
+				"/DatasmithContent/Materials/SketchUpMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "AD267F6057CCC91655DA72E90AEDD8C81D5CF473",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "9FF4B10C15FD0A44397D6AA37B1E408FB60CF63F",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Materials/LowPolyCartoonNature_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1CE8E18606F0A4A3FAF0B7375051CACBC287060F",
+			"Assets": [
+				"/Game/surface/Mars"
+			]
+		},
+		{
+			"ShaderMapHash": "2D34FF28D2723AACFE6D826020B6887B531177F7",
+			"Assets": [
+				"/Game/oxxo/Material_003"
+			]
+		},
+		{
+			"ShaderMapHash": "DF9B25C57A22D66F926856777F8E8873C4C84315",
+			"Assets": [
+				"/Game/oxxo/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "2E6CAEC28CF816254E1E491C10E191DC25A4BB21",
+			"Assets": [
+				"/Game/oxxo/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "FF82DCCF869C2E38198346BA8E52C1A74119663B",
+			"Assets": [
+				"/Game/oxxo/06-ROBAN-1-MAX-1-COLUMNA_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BA7E6963B2269775E972E00AE7D28F40E8AB00F8",
+			"Assets": [
+				"/Game/Materiales/verde_land_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "0097D34D91B56C58BD73F3AC52000676482BF589",
+			"Assets": [
+				"/Game/Materiales/verde-muestra_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "57A2B4E694B0E1E37C36685EA6556AB1D529D14F",
+			"Assets": [
+				"/Game/Materiales/TerrenoMat_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "EC4CF303B6E9E9B9B61137E0356D239470C80727",
+			"Assets": [
+				"/Game/Materiales/Terrain-Mat3_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "063FF0CC6C3C816974FD05F5D3EBB239D4229701",
+			"Assets": [
+				"/Game/Materiales/Terrain-Mat2_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "3CC1034E50CC812D3347A7B793761F83942416A6",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WoodPlank"
+			]
+		},
+		{
+			"ShaderMapHash": "4AA1A681C3D9CA32F01408C5002169326C46C082",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LightShaft"
+			]
+		},
+		{
+			"ShaderMapHash": "355CDB6E45B68713D02B4593107E45CA82E17BEA",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LavaFlow_3"
+			]
+		},
+		{
+			"ShaderMapHash": "25C35897C87A7955B70694B93735D66CD4764129",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LavaFlow_2"
+			]
+		},
+		{
+			"ShaderMapHash": "E505BD631F1D73BD47B3880FF2B927014E8234E2",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LavaFlow_1"
+			]
+		},
+		{
+			"ShaderMapHash": "99FB8711578956E1CE3A3A9426F48C87B6A5D692",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LPSD2_Logo"
+			]
+		},
+		{
+			"ShaderMapHash": "9A7C7B4ECAA977F84C137D4FAEB63DFB137806FC",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_JollyRogerDisplay"
+			]
+		},
+		{
+			"ShaderMapHash": "D65E1C33169848B79AB22A2F56A50EC7078A05A6",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Top_2"
+			]
+		},
+		{
+			"ShaderMapHash": "448C739820C51CEFD9A6985E16C8F8AAAB564613",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Top_1"
+			]
+		},
+		{
+			"ShaderMapHash": "4E79EBF6633CD6981BE6B18FADA766F2EFA6C4DA",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Base_1"
+			]
+		},
+		{
+			"ShaderMapHash": "600000B1AFF0F8C9630A7B7EF9B7A3C4A9DCF3FC",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Base2"
+			]
+		},
+		{
+			"ShaderMapHash": "BCBFD8B5CE0774367851E6A796182CF6C796153B",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/oxxo-01_ncl1_1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D5C4067C5B4C9CDB3644E4A0C65CC9114A4509D5",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Oxxo/Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BE6FA2A474024D97AE2184E46684D6C135FB7652",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Obj/suelo"
+			]
+		},
+		{
+			"ShaderMapHash": "71173E2D1A52F9565A7D55B17EF22C6D0CA950A6",
+			"Assets": [
+				"/Game/LowPolyNaturePack/Meshes/Obj/eolico"
+			]
+		},
+		{
+			"ShaderMapHash": "C7851991AA22AE60160B8EA5E6D55029AF2D423C",
+			"Assets": [
+				"/Game/Eolic/eolic"
+			]
+		},
+		{
+			"ShaderMapHash": "777A7C3787D792E65F74AB9543AC2B4F55CE19AA",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Glow_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "A22E01B6F0D8E4123603002DE45C73C8E7F52D9F",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Flicker_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "0181C7EBD33544F2D15732E48A7B05CDAB9A83F9",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Lightshaft"
+			]
+		},
+		{
+			"ShaderMapHash": "E0A8A30D833B33294E7E0321D1248202F3D334DE",
+			"Assets": [
+				"/Game/images/prueba_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B4A2FFC8CC0D18A0CB492C83D62CE5ED8D635880",
+			"Assets": [
+				"/Game/images/parque-eolicofinal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "B5284D2ABB3FC0D5D69A8715C6CDB06FD1BB6B18",
+			"Assets": [
+				"/Game/images/Parque-EolicoBoardFinal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "544194FA720CDC2B5028333F0560EEF1F475B650",
+			"Assets": [
+				"/Game/images/inclusion-laboralfinal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "FD15EE69E2DEC3855953A81185333C6363CAB091",
+			"Assets": [
+				"/Game/images/economia-circularfinal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "95820AADD5A9095B6EDE1C81AD08DCC73CB7EF44",
+			"Assets": [
+				"/Game/images/Bienestar-Comunitariofinal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7F8256F80A9BA1C3AE84B19FCA34EA0ACC95CC",
+			"Assets": [
+				"/Game/Estructuras/InclusionLaboralBoard_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BEDF0E765B261CC58F245F3225492F6F8237F2F4",
+			"Assets": [
+				"/Game/Estructuras/EconomiaCircularBoard_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D589DFC66345086EBED36CB2D3BF3B494D668371",
+			"Assets": [
+				"/Game/Estructuras/BienestarComunitarioBoard_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8A1D2DA97F720684D7C6D3F18E4B19DA66869609",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Bird"
+			]
+		},
+		{
+			"ShaderMapHash": "3B8488D7E1B5085480366C9E75CC42BCB8E01E81",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/M_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "0A4C526AE6546BD956F63243BBD07EF042A541A5",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Snow_01_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "4788DE5D0C1A3AC00BAD7DEFFD531F504DA785AB",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Glow_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "D34B341A6D9A62E079CD84B7747642ACC1F9573A",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Fog_03_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "25AE081EDADAC4A4AC290B2AB2AE28986C090725",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Fog_02_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "B479E441F45D0A4CF98C1B8511B65415FB7D789A",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Fog_01_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "227682CB41E214D8F2534DA73C86BD8FAD837FC8",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_Dust_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "D5A172C0F64E9A7F12C5540B6BF187C15665BD18",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "3434744DD950999BDAD49114CE9EEC2A1E2CF2E9",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "1ACFE531E58DF9A56E6184051041A66191A80B57",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "382D2FFA6388CF0633802AF1B6A7DA06BB84DCD0",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "57F3CDA2CEA94A5DE350D7DA41221688026B84E6",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/M_Base_Blend_Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "4B5A375A21E1FDDFDA6B32E8C55BB258859659F9",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_Volcano"
+			]
+		},
+		{
+			"ShaderMapHash": "B3315FD7A34D6FFDCFE083A385290CF54D188513",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WindSails"
+			]
+		},
+		{
+			"ShaderMapHash": "B94A1530DD34C8F837E917FBBED7EA0027F76B3F",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Wind_Two_Sided_Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "696CC419C3C98F7BBBD964024A92E9FF45D33B62",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Wind_Two_Sided"
+			]
+		},
+		{
+			"ShaderMapHash": "52A92156ACBA0287BE8D9100C66BC1AE2D5FE56E",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Wind_Blend_Snow"
+			]
+		},
+		{
+			"ShaderMapHash": "E767ADEB5CC5D3F94BE3DECE184CAA619B9A1B7D",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Wind"
+			]
+		},
+		{
+			"ShaderMapHash": "6B6956BD785CF60722079A89ECFBDA615D6113E9",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Cloud"
+			]
+		},
+		{
+			"ShaderMapHash": "9B5A708629AD82DBC3D33A77F45BC7CA412696A4",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Water_Splash"
+			]
+		},
+		{
+			"ShaderMapHash": "DE1E73931DDA422B7939186A34C46F7A3A4D8625",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Water_Ocean"
+			]
+		},
+		{
+			"ShaderMapHash": "C2E0E7F5A8A8243DF9CA68B9D562BEC9F05B09B8",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Water_Fall"
+			]
+		},
+		{
+			"ShaderMapHash": "D619B1390311383D4FA21D811F43865C3B52849A",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_WaterSplash"
+			]
+		},
+		{
+			"ShaderMapHash": "96F825008D2947727225AC4B5D699973229E5EEE",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_WaterFall"
+			]
+		},
+		{
+			"ShaderMapHash": "828D4DC3E7D5B765A792696AE54C11CFA9EE234E",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_TreeBreeze_Display"
+			]
+		},
+		{
+			"ShaderMapHash": "C2416C0CB39DA9455CF8A95AB1369719697C5AAC",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_TreeBreeze"
+			]
+		},
+		{
+			"ShaderMapHash": "287B5DBDBDA63C6202D46765061C2F5D9671705D",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_JollyRoger"
+			]
+		},
+		{
+			"ShaderMapHash": "D3F763AE553646285AA45D97A1B7F5E61DCAAC86",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Particles/Materials/M_LightShaft_PS"
+			]
+		},
+		{
+			"ShaderMapHash": "713FF58C60E9A5D7EC1DC7558C7F6E865321FFE9",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "5C5AE80148852A17E634683F3887703E734AFF6C",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/M_Wind_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9001A831D6ECE1FB8C95276C3F0AC3E408F162FB",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Waves"
+			]
+		},
+		{
+			"ShaderMapHash": "3D21F459DC150C412EBCDA0427046968978D806A",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Calm"
+			]
+		},
+		{
+			"ShaderMapHash": "EA27C61D477B61D979F01C6739FDE232D5346A1D",
+			"Assets": [
+				"/Game/oxxo/M_Oxxo_Material_003_C7C7FB7D42C1C0183ADFD5969DB03489",
+				"/Game/oxxo/M_Oxxo_Material_002_C7C7FB7D42C1C0183ADFD5969DB03489",
+				"/Game/oxxo/M_Oxxo_06-ROBAN-1-MAX-1-COLUMNA_Mat_C7C7FB7D42C1C0183ADFD5969DB03489"
+			]
+		},
+		{
+			"ShaderMapHash": "1114FF4E541D8E61EDFDE9229F170D7B37917D98",
+			"Assets": [
+				"/DatasmithContent/Materials/RevitMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "7745E5B1FD81F123847F0AA1777B1BEE1C3EA15B",
+			"Assets": [
+				"/DatasmithContent/Materials/C4DMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A5F5C3D8801375DE2D9A98CDB3D42DFAE6608A2D",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D54A0C901D8491C021C9EDA6E7BCD472A43AC017",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "02BBD7E9B982EFE3AD8AC85BDF6D485BA0C72B10",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "9EFF1CD751A2D94726165AA486426A187232A7D9",
+			"Assets": [
+				"/Game/clase1",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X0_Y-1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L2_X0_Y0_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L2_X-1_Y0_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-1_Y-1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-1_Y-2_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X1_Y1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X0_Y0_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X1_Y0_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-2_Y1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-2_Y0_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-1_Y0_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-2_Y-1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-2_Y-2_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X1_Y-2_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X-1_Y1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X0_Y-2_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X1_Y-1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L1_X0_Y1_DL0",
+				"/Game/clase1/_Generated_/clase1_MainGrid_L0_X0_Y0_DL0"
+			]
+		},
+		{
+			"ShaderMapHash": "9CF2FE4F072D8CC0C5C2BC233228035084451AEB",
+			"Assets": [
+				"/Game/clase1"
+			]
+		},
+		{
+			"ShaderMapHash": "111E60BC2012C97CD23A1B468290A61201C8C776",
+			"Assets": [
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality"
+			]
+		},
+		{
+			"ShaderMapHash": "D4942343DE958BDE8F2FAB426F5C55E4ED79DC3B",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "244A6D3245D677C611BA9E0EA449A41B58B04169",
+			"Assets": [
+				"/DatasmithContent/Materials/CE_OpacitySimpleMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "BFA83CE17862D992423172F813E7D210FF33BFCF",
+			"Assets": [
+				"/DatasmithContent/Materials/CE_OpacityMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "6C4904D363E2E327F3BDA716AAF34AF7F42FBA73",
+			"Assets": [
+				"/DatasmithContent/Materials/CE_OpaqueMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "60C8F0814E6071464D16D79A51AB829750B81DD9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "3C38CEC4A90F5193F55B43C26E117D83B85F48D3",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "26A94FF12B9EA6A94956E363372F80BAE497B04B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "18291C3097946395C432A7289B8416DCD01AB087",
+			"Assets": [
+				"/Game/Levels/360_Level/MP4/ParqueEolico/MT_ParqueEolico"
+			]
+		},
+		{
+			"ShaderMapHash": "8CCD736A0DE0C4BD262CBCC34AC044B696DFBEA8",
+			"Assets": [
+				"/Game/Levels/360_Level/MP4/Oxxo/MT_Oxxo"
+			]
+		},
+		{
+			"ShaderMapHash": "0F7988AA84C7B489BA44140AD2CAEFE8C4FB5148",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Misc/M_Base_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "BC736E60E980AB541A67E1FF72B896047D3AE833",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Materials/Landscapes/M_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "8DEA27CF2AB2D83E5EAF7EF4E4FCDCF1654F2C9A",
+			"Assets": [
+				"/Game/BeefyBlackbirds/Niagara/Materials/M_NiagaraParticleColorTest"
+			]
+		},
+		{
+			"ShaderMapHash": "6EC21D6F599E488F2810B2B4956E137F8DEA7914",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "FCF10726600087A6C939983DCAA045971C8B33B1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "909302F36E74E91C3449B1BC14354F589E38F361",
+			"Assets": [
+				"/Game/BeefyBlackbirds/MaterialLibrary/MasterMaterials/M_BeefyBirdMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "73D439DF0348A646C54327003BA2EC423AAD3AB3",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/M_Mount_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "0AD843B0BE6AD07B4FFE54B25E69CE8241513836",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_LightGray"
+			]
+		},
+		{
+			"ShaderMapHash": "F914B8CA7F40ACA2E20EE04BF426621CB0B3A461",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_Green_2"
+			]
+		},
+		{
+			"ShaderMapHash": "6C1A014E96EB3A18F318037BF4D9DF5F87D9F32B",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/M_2Side_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A8743F3BFE7B66F2BC7DA84B5593A2B1F042B310",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color/M_Color_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "FEF3494542101DC2BE4D4B24A70D7845468D91CD",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Landscape/M_Landscape_LowPolyTropical"
+			]
+		},
+		{
+			"ShaderMapHash": "8351E800BFDEDBA4A9A412AFFFBAE3FD82803C5A",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "1837026DBDACD3096FC3C87C4CBD2A6B3BF0D53C",
+			"Assets": [
+				"/DatasmithContent/Materials/StdEmissive/M_StdEmissive"
+			]
+		},
+		{
+			"ShaderMapHash": "5B7753FD4981C035F4E617E972B9B9826F05716A",
+			"Assets": [
+				"/DatasmithContent/Materials/StdTranslucent/M_StdTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "6CB4EC1E527EF3FCC13DEC46538F5705E16132A9",
+			"Assets": [
+				"/DatasmithContent/Materials/StdOpaque/M_StdOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4443D847FDD18AA2D38C52176BCB5BEF2393ED81",
+			"Assets": [
+				"/Game/BeefyBlackbirds/MaterialLibrary/MasterMaterials/MI_BeefyBird_Master",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/MI_Nuthatch_Master",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/MI_Mockingbird_Master",
+				"/Game/BeefyBlackbirds/Birds/Meadowlarks/MI_Meadowlark_Master",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/MI_Kinglet_Master",
+				"/Game/BeefyBlackbirds/Birds/Juncos/MI_Junco_Master",
+				"/Game/BeefyBlackbirds/Birds/Cowbirds/MI_Cowbird_Master",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MI_Chickadee_Master",
+				"/Game/BeefyBlackbirds/Birds/Catbirds/MI_Catbird_Master",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/MI_Bushtit_Master",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/MI_Blackbird_Master",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RustyBlackbird/Meshes/MI_RustyBlackbird_Actor",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/WhiteBreastedNuthatch/Meshes/MI_WhiteBreastedNuthatch_Actor"
+			]
+		},
+		{
+			"ShaderMapHash": "7F1F963DABCDD24EEEA47E63FE69AC151BB8900F",
+			"Assets": [
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_BrightOrange",
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Sky",
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Canvas",
+				"/Game/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_2S_Pine"
+			]
+		},
+		{
+			"ShaderMapHash": "B7FE93FF0D05B66352BF16CCEFBE5A3CE1C268A0",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "AC797A777EB3D53A40DD771A501DAFB84D2D72A1",
+			"Assets": [
+				"/Game/BeefyBlackbirds/Birds/Titmice/MI_Titmouse_Master",
+				"/Game/BeefyBlackbirds/Birds/Titmice/TuftedTitmouse/Meshes/MI_TuftedTitmouse_Actor",
+				"/Game/BeefyBlackbirds/Birds/Meadowlarks/WesternMeadowlark/Meshes/MI_WesternMeadowlark_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Cowbirds/BrownHeadedCowbird/Meshes/MI_BrownHeadedCowbird_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Titmice/TuftedTitmouse/Meshes/MI_TuftedTitmouse_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Titmice/BlackCrestedTitmouse/Meshes/MI_BlackCrestedTitmouse_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/WhiteBreastedNuthatch/Meshes/MI_WhiteBreastedNuthatch_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/RedBreastedNuthatch/Meshes/MI_RedBreastedNuthatch_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/NorthernMockingbird/Meshes/MI_NorthernMockingbird_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/RubyCrownedKinglet/Meshes/MI_RubyCrownedKinglet_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/GoldenCrownedKinglet/Meshes/MI_GoldenCrownedKinglet_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Juncos/DarkEyedJunco/Meshes/MI_DarkEyedJunco_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MountainChickadee/Meshes/MI_MountainChickadee_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MexicanChickadee/Meshes/MI_MexicanChickadee_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/ChestnutBackedChickadee/Meshes/MI_ChestnutBackedChickadee_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BorealChickadee/Meshes/MI_BorealChickadee_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BlackCappedChickadee/Meshes/MI_BlackCappedChickadee_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Catbirds/GrayCatbird/Meshes/MI_GrayCatbird_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/AmericanBushtit/Meshes/MI_AmericanBushtit_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/YellowHeadedBlackbird/Meshes/MI_YellowHeadedBlackbird_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RedWingedBlackbird/Meshes/MI_RedWingedBlackbird_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/BrewersBlackbird/Meshes/MI_BrewersBlackbird_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RustyBlackbird/Meshes/MI_RustyBlackbird_Particle_Undulating",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/CommonBlackbird/Meshes/MI_CommonBlackbird_Particle_Undulating"
+			]
+		},
+		{
+			"ShaderMapHash": "BC26212BF04DDD6C6988184F5E448ADF3F27428B",
+			"Assets": [
+				"/Game/BeefyBlackbirds/Birds/Titmice/BlackCrestedTitmouse/Meshes/MI_BlackCrestedTitmouse_Actor",
+				"/Game/BeefyBlackbirds/Birds/Meadowlarks/WesternMeadowlark/Meshes/MI_WesternMeadowlark_Particle",
+				"/Game/BeefyBlackbirds/Birds/Cowbirds/BrownHeadedCowbird/Meshes/MI_BrownHeadedCowbird_Particle",
+				"/Game/BeefyBlackbirds/Birds/Titmice/TuftedTitmouse/Meshes/MI_TuftedTitmouse_Particle",
+				"/Game/BeefyBlackbirds/Birds/Titmice/BlackCrestedTitmouse/Meshes/MI_BlackCrestedTitmouse_Particle",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/WhiteBreastedNuthatch/Meshes/MI_WhiteBreastedNuthatch_Particle",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/RedBreastedNuthatch/Meshes/MI_RedBreastedNuthatch_Particle",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/NorthernMockingbird/Meshes/MI_NorthernMockingbird_Particle",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/RubyCrownedKinglet/Meshes/MI_RubyCrownedKinglet_Particle",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/GoldenCrownedKinglet/Meshes/MI_GoldenCrownedKinglet_Particle",
+				"/Game/BeefyBlackbirds/Birds/Juncos/DarkEyedJunco/Meshes/MI_DarkEyedJunco_Particle",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MountainChickadee/Meshes/MI_MountainChickadee_Particle",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MexicanChickadee/Meshes/MI_MexicanChickadee_Particle",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/ChestnutBackedChickadee/Meshes/MI_ChestnutBackedChickadee_Particle",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BorealChickadee/Meshes/MI_BorealChickadee_Particle",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BlackCappedChickadee/Meshes/MI_BlackCappedChickadee_Particle",
+				"/Game/BeefyBlackbirds/Birds/Catbirds/GrayCatbird/Meshes/MI_GrayCatbird_Particle",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/AmericanBushtit/Meshes/MI_AmericanBushtit_Particle",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/YellowHeadedBlackbird/Meshes/MI_YellowHeadedBlackbird_Particle",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RedWingedBlackbird/Meshes/MI_RedWingedBlackbird_Particle",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/BrewersBlackbird/Meshes/MI_BrewersBlackbird_Particle",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/NorthernMockingbird/Meshes/MI_NorthernMockingbird_Particle_Soaring",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/AmericanBushtit/Meshes/MI_AmericanBushtit_Particle_Soaring",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/YellowHeadedBlackbird/Meshes/MI_YellowHeadedBlackbird_Particle_Soaring",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RustyBlackbird/Meshes/MI_RustyBlackbird_Particle",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RedWingedBlackbird/Meshes/MI_RedWingedBlackbird_Particle_Soaring",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/CommonBlackbird/Meshes/MI_CommonBlackbird_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "EC262284A712A15E0A8FA2BE817BA53239D7D15F",
+			"Assets": [
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/RedBreastedNuthatch/Meshes/MI_RedBreastedNuthatch_Actor",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/NorthernMockingbird/Meshes/MI_NorthernMockingbird_Actor",
+				"/Game/BeefyBlackbirds/Birds/Meadowlarks/WesternMeadowlark/Meshes/MI_WesternMeadowlark_Actor",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/RubyCrownedKinglet/Meshes/MI_RubyCrownedKinglet_Actor",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/GoldenCrownedKinglet/Meshes/MI_GoldenCrownedKinglet_Actor",
+				"/Game/BeefyBlackbirds/Birds/Juncos/DarkEyedJunco/Meshes/MI_DarkEyedJunco_Actor",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MountainChickadee/Meshes/MI_MountainChickadee_Actor",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MexicanChickadee/Meshes/MI_MexicanChickadee_Actor",
+				"/Game/BeefyBlackbirds/Birds/Cowbirds/BrownHeadedCowbird/Meshes/MI_BrownHeadedCowbird_Actor",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/ChestnutBackedChickadee/Meshes/MI_ChestnutBackedChickadee_Actor",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BorealChickadee/Meshes/MI_BorealChickadee_Actor",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BlackCappedChickadee/Meshes/MI_BlackCappedChickadee_Actor",
+				"/Game/BeefyBlackbirds/Birds/Catbirds/GrayCatbird/Meshes/MI_GrayCatbird_Actor",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/AmericanBushtit/Meshes/MI_AmericanBushtit_Actor",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/CommonBlackbird/Meshes/MI_CommonBlackbird_Actor",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/BrewersBlackbird/Meshes/MI_BrewersBlackbird_Actor"
+			]
+		},
+		{
+			"ShaderMapHash": "ACFCA97B8EDBD4A788C6CA270CFEE68F2CAD77B7",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "ABF5214BD167FBCB8AB68D51371E5059E9785A92",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "5599CA573E8317C1D4FEB95AFA67C84C8A52C1BF",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "6BA68D01D35112DC43F9D5E3D7879DEBA92CB3A6",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "67B1A39710BD6096EC93114CC7AB256556C314AF",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "2A6948FB2A4B83CADCAF41920506917675519CC0",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "01FF786CCE9E324CB77119A2ACC64210FE848427",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "5C2C11D29FA367D1736092D633718FD27A009C54",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "9071B685653CF803C5AFB717D4773C4B2CB0C66A",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "F626EC207EBD57A61592735446A8F6D414961EDB",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "49AA10310C3A655D9099B8F0E6D5285FC8D2B73C",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "BDAAE0194D034CE40CB641D76CC56A5BCA3F2248",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "87DD9CCAEA26E097BE1DCFC858AE28D9A633225D",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "990D2ED414F294E84152E3C43226F22C7F9A3B50",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "EFB9E1DA2DAB31094FDD14E0978C83662D6C203A",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Winter_Day",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "472ABC04674281B56C9C2AE84BF85592FD3C9B5E",
+			"Assets": [
+				"/Game/BeefyBlackbirds/Birds/Cowbirds/BrownHeadedCowbird/Meshes/MI_BrownHeadedCowbird_Perched",
+				"/Game/BeefyBlackbirds/Birds/Cowbirds/BrownHeadedCowbird/Meshes/MI_BrownHeadedCowbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Cowbirds/BrownHeadedCowbird/Meshes/MI_BrownHeadedCowbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Titmice/TuftedTitmouse/Meshes/MI_TuftedTitmouse_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/RedBreastedNuthatch/Meshes/MI_RedBreastedNuthatch_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Titmice/TuftedTitmouse/Meshes/MI_TuftedTitmouse_Perching",
+				"/Game/BeefyBlackbirds/Birds/Titmice/TuftedTitmouse/Meshes/MI_TuftedTitmouse_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Titmice/BlackCrestedTitmouse/Meshes/MI_BlackCrestedTitmouse_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Titmice/BlackCrestedTitmouse/Meshes/MI_BlackCrestedTitmouse_Perching",
+				"/Game/BeefyBlackbirds/Birds/Titmice/BlackCrestedTitmouse/Meshes/MI_BlackCrestedTitmouse_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/RedBreastedNuthatch/Meshes/MI_RedBreastedNuthatch_Perching",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/WhiteBreastedNuthatch/Meshes/MI_WhiteBreastedNuthatch_Perching",
+				"/Game/BeefyBlackbirds/Birds/Nuthatches/RedBreastedNuthatch/Meshes/MI_RedBreastedNuthatch_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/NorthernMockingbird/Meshes/MI_NorthernMockingbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Meadowlarks/WesternMeadowlark/Meshes/MI_WesternMeadowlark_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/NorthernMockingbird/Meshes/MI_NorthernMockingbird_Perching",
+				"/Game/BeefyBlackbirds/Birds/Mockingbirds/NorthernMockingbird/Meshes/MI_NorthernMockingbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Meadowlarks/WesternMeadowlark/Meshes/MI_WesternMeadowlark_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Meadowlarks/WesternMeadowlark/Meshes/MI_WesternMeadowlark_Perching",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/RubyCrownedKinglet/Meshes/MI_RubyCrownedKinglet_Perching",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/RubyCrownedKinglet/Meshes/MI_RubyCrownedKinglet_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RustyBlackbird/Meshes/MI_RustyBlackbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/RubyCrownedKinglet/Meshes/MI_RubyCrownedKinglet_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/GoldenCrownedKinglet/Meshes/MI_GoldenCrownedKinglet_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/GoldenCrownedKinglet/Meshes/MI_GoldenCrownedKinglet_Perching",
+				"/Game/BeefyBlackbirds/Birds/Kinglets/GoldenCrownedKinglet/Meshes/MI_GoldenCrownedKinglet_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Juncos/DarkEyedJunco/Meshes/MI_DarkEyedJunco_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Juncos/DarkEyedJunco/Meshes/MI_DarkEyedJunco_Perching",
+				"/Game/BeefyBlackbirds/Birds/Juncos/DarkEyedJunco/Meshes/MI_DarkEyedJunco_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MountainChickadee/Meshes/MI_MountainChickadee_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MountainChickadee/Meshes/MI_MountainChickadee_Perching",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MountainChickadee/Meshes/MI_MountainChickadee_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MexicanChickadee/Meshes/MI_MexicanChickadee_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MexicanChickadee/Meshes/MI_MexicanChickadee_Perching",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/MexicanChickadee/Meshes/MI_MexicanChickadee_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BorealChickadee/Meshes/MI_BorealChickadee_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BorealChickadee/Meshes/MI_BorealChickadee_Perching",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BorealChickadee/Meshes/MI_BorealChickadee_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BlackCappedChickadee/Meshes/MI_BlackCappedChickadee_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BlackCappedChickadee/Meshes/MI_BlackCappedChickadee_Perching",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/BlackCappedChickadee/Meshes/MI_BlackCappedChickadee_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Catbirds/GrayCatbird/Meshes/MI_GrayCatbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Catbirds/GrayCatbird/Meshes/MI_GrayCatbird_Perched",
+				"/Game/BeefyBlackbirds/Birds/Catbirds/GrayCatbird/Meshes/MI_GrayCatbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/AmericanBushtit/Meshes/MI_AmericanBushtit_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/AmericanBushtit/Meshes/MI_AmericanBushtit_Perching",
+				"/Game/BeefyBlackbirds/Birds/Bushtits/AmericanBushtit/Meshes/MI_AmericanBushtit_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/YellowHeadedBlackbird/Meshes/MI_YellowHeadedBlackbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/YellowHeadedBlackbird/Meshes/MI_YellowHeadedBlackbird_Perching",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/YellowHeadedBlackbird/Meshes/MI_YellowHeadedBlackbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RedWingedBlackbird/Meshes/MI_RedWingedBlackbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RedWingedBlackbird/Meshes/MI_RedWingedBlackbird_Perching",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RedWingedBlackbird/Meshes/MI_RedWingedBlackbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/BrewersBlackbird/Meshes/MI_BrewersBlackbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/BrewersBlackbird/Meshes/MI_BrewersBlackbird_Perching",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/BrewersBlackbird/Meshes/MI_BrewersBlackbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/ChestnutBackedChickadee/Meshes/MI_ChestnutBackedChickadee_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Chickadees/ChestnutBackedChickadee/Meshes/MI_ChestnutBackedChickadee_Perching",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RustyBlackbird/Meshes/MI_RustyBlackbird_Perching",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/RustyBlackbird/Meshes/MI_RustyBlackbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/CommonBlackbird/Meshes/MI_CommonBlackbird_Pecking",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/CommonBlackbird/Meshes/MI_CommonBlackbird_Hopping",
+				"/Game/BeefyBlackbirds/Birds/Blackbirds/CommonBlackbird/Meshes/MI_CommonBlackbird_Perching"
+			]
+		},
+		{
+			"ShaderMapHash": "7FDCB36E7738A15584A80AED3EEB5C51C36B014C",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "E3EB80C16991520986DC7243C8884B2BF5DD09E4",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "544962E574B7E943658207E1832CFC599E633F18",
+			"Assets": [
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Night",
+				"/Game/Low_Poly_Viking_World/Maps/Map_01_Day"
+			]
+		},
+		{
+			"ShaderMapHash": "3D2F64F49E5C0DE751C046A46727B0A3A47092A8",
+			"Assets": [
+				"/Game/BeefyBlackbirds/ExampleMap/BeefyBlackbirdsDemo",
+				"/Game/BeefyBlackbirds/ExampleMap/BeefyBlackbirdsDemo_Niagara"
+			]
+		}
+	]
+}
